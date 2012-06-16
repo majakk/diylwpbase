@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="livewallpaper_mode_names">
+        <item>"Lips Lemonade"</item>
+        <item>"Dark Beauty"</item>
+        <item>"Makers View"</item>
+        
+    </string-array>
+
+    <string-array name="livewallpaper_mode_prefix">
+        <item>"lipslemonade"</item>
+        <item>"darkbeauty"</item>
+        <item>"makersview"</item>
+        
+    </string-array>    
+    
+    <string-array name="livewallpaper_numofitems_names">
+        <item>"25"</item>
+        <item>"50"</item>
+        <item>"75"</item>
+        <item>"100"</item>        
+    </string-array>
+
+    <string-array name="livewallpaper_numofitems_prefix">
+        <item>"25"</item>
+        <item>"50"</item>
+        <item>"75"</item>
+        <item>"100"</item>       
+    </string-array>  
+    
+    <string-array name="livewallpaper_brightness_names">
+        <item>"100 %"</item>
+        <item>"90 %"</item>
+        <item>"80 %"</item>
+        <item>"70 %"</item>
+        <item>"60 %"</item>
+        <item>"50 %"</item>                
+    </string-array>
+    
+    <string-array name="livewallpaper_brightness_prefix">
+        <item>"10"</item>
+        <item>"9"</item>
+        <item>"8"</item>
+        <item>"7"</item>
+        <item>"6"</item>
+        <item>"5"</item>                
+    </string-array>       
+    
+    <string-array name="livewallpaper_transparency_names">
+        <item>"0 %"</item>
+        <item>"10 %"</item>
+        <item>"20 %"</item>
+        <item>"30 %"</item>        
+    </string-array>
+    
+    <string-array name="livewallpaper_transparency_prefix">
+        <item>"0"</item>
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"3"</item>       
+    </string-array>  
+    
+    <string-array name="livewallpaper_framerate_names">
+        <item>"16 Hz"</item>
+        <item>"24 Hz"</item>
+        <item>"32 Hz"</item>
+        <item>"40 Hz"</item>
+        <item>"48 Hz"</item>
+        <item>"56 Hz"</item>
+        <item>"64 Hz"</item>                
+    </string-array>
+
+    <string-array name="livewallpaper_framerate_prefix">
+        <item>"16"</item>
+        <item>"24"</item>
+        <item>"32"</item>
+        <item>"40"</item>
+        <item>"48"</item>      
+        <item>"56"</item>
+        <item>"64"</item>       
+    </string-array>    
+
+      
+    
+    <string-array name="livewallpaper_color_names">
+        <item>"0 %"</item>
+        <item>"10 %"</item>
+        <item>"20 %"</item>
+        <item>"30 %"</item>
+        <item>"40 %"</item>
+        <item>"50 %"</item>
+        <item>"60 %"</item>
+        <item>"70 %"</item>
+        <item>"80 %"</item>
+        <item>"90 %"</item>
+        <item>"100 %"</item>
+                
+    </string-array>
+
+    <string-array name="livewallpaper_color_prefix">
+        <item>"0"</item>
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"3"</item>      
+        <item>"4"</item>
+        <item>"5"</item>          
+        <item>"6"</item>
+        <item>"7"</item>
+        <item>"8"</item>      
+        <item>"9"</item>
+        <item>"10"</item> 
+    </string-array>    
+    
+    <string-array name="livewallpaper_selectsprites_names">
+        <item>"Lemon"</item>
+        <item>"Lime"</item>       
+        <item>"Red Heart"</item>
+        <item>"Blue Heart"</item>         
+        
+        <item>"Bubble"</item>
+        <item>"Spiral"</item>
+        <item>"Red Gummibear"</item>
+        <item>"Green Gummibear"</item>
+        
+        <item>"Blue Eye"</item>
+        <item>"Red Eye"</item>
+        <item>"Dandelion"</item>
+        <item>"Dandelion Seeds"</item>
+        
+        <item>"Red Lips"</item>
+        <item>"Tux"</item>
+        <item>"Red Rose"</item>
+        <item>"Black Rose"</item>
+        
+        <item>"Football"</item>
+        <item>"Raidoactivity"</item>
+        
+    </string-array>
+
+    <string-array name="livewallpaper_selectsprites_prefix">
+        <item>"0"</item>
+        <item>"1"</item>
+        <item>"2"</item>
+        <item>"3"</item>
+        
+        <item>"4"</item>
+        <item>"5"</item>
+        <item>"6"</item>
+        <item>"7"</item>
+        
+        <item>"8"</item>
+        <item>"9"</item>
+        <item>"10"</item>
+        <item>"11"</item>
+        
+        <item>"12"</item>
+        <item>"13"</item>
+        <item>"14"</item>
+        <item>"15"</item>
+        
+        <item>"16"</item>
+        <item>"17"</item>
+             
+    </string-array>    
+    
+    <string-array name="pref_upload_buckets_default_entries">
+		<item>All</item>
+		<item>Test1</item>
+		<item>Test2</item>
+	</string-array>
+	<string-array name="pref_upload_buckets_default_values">
+		<item>#ALL#</item>
+		<item>Test1 Value</item>
+		<item>Test2 Value</item>
+	</string-array>
+    
+</resources>

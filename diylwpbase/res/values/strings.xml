@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Lemon Live Wallpaper</string>
+    <string name="app_name_short">Lemon LWP</string>
+    <string name="wallpaper_description">Lemon Live Wallpaper designed by Studio Coldstream</string>
+        
+    
+    <!-- Settings -->
+    <string name="wallpaper_settings">Settings</string>
+    <string name="wallpaper_category1">Main</string>
+    <string name="wallpaper_category2">Creative Mode</string>
+    <string name="wallpaper_category3">Background Color</string>
+    <string name="wallpaper_category4">Advanced</string>
+    
+    <string name="livewallpaper_mode_title">Select Design</string>
+    <string name="livewallpaper_mode_summary">Predefined setup (Remove any custom items)</string>    
+    
+    <string name="livewallpaper_numofitems_title">Number of Items</string>
+    <string name="livewallpaper_numofitems_summary">Select number of items to show</string>    
+    
+    <string name="livewallpaper_selectsprites_title">Select Custom Items</string>
+    <string name="livewallpaper_selectsprites_summary">Pick a custom set of items</string>
+    
+    <string name="livewallpaper_flares_title">Flares</string>
+    <string name="livewallpaper_flares_summary">Select to show particles</string>
+    
+    <string name="livewallpaper_scroll_title">Wallpaper Scrolling</string>
+    <string name="livewallpaper_scroll_summary">Select to enable scrolling</string>
+    
+    <string name="livewallpaper_brightness_title">Brightness</string>
+    <string name="livewallpaper_brightness_summary">Choose level of brightness</string>
+    
+    <string name="livewallpaper_framerate_title">Framerate</string>
+    <string name="livewallpaper_framerate_summary">Choose framerate (low = energy efficient)</string>
+    
+    <string name="livewallpaper_transparency_title">Transparency</string>
+    <string name="livewallpaper_transparency_summary">Choose level of transparency</string>
+    
+    <string name="livewallpaper_coldstream_title">Studio Coldstream</string>
+    <string name="livewallpaper_coldstream_summary">Please support us on Google Play!</string>
+    
+    <string name="livewallpaper_red_title">Red</string>
+    <string name="livewallpaper_red_summary">Choose level of red</string>
+    
+    <string name="livewallpaper_green_title">Green</string>
+    <string name="livewallpaper_green_summary">Choose level of green</string>
+    
+    <string name="livewallpaper_blue_title">Blue</string>
+    <string name="livewallpaper_blue_summary">Choose level of blue</string>
+    
+    
+	
+    <!-- Multi -->
+    <string name="pref_upload_buckets_image">upload.buckets_image</string>
+    
+
+
+</resources>
