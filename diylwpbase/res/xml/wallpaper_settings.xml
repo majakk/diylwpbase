@@ -43,7 +43,7 @@
 	        android:title="@string/wallpaper_category2">
 	    </PreferenceCategory>
 	    
-	    <studio.coldstream.diylwpbase.android.preference.ListPreferenceMultiSelect
+	    <studio.coldstream.jellybean.android.preference.ListPreferenceMultiSelect
 	        android:key="livewallpaper_selectsprites"
 	        android:title="@string/livewallpaper_selectsprites_title"
 	        android:summary="@string/livewallpaper_selectsprites_summary" 

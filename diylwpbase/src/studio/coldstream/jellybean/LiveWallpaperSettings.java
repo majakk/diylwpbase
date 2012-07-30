@@ -1,9 +1,10 @@
-package studio.coldstream.diylwpbase;
+package studio.coldstream.jellybean;
 
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.preference.PreferenceActivity;
 //import android.util.Log;
+import studio.coldstream.jellybean.R;
 
 
 public class LiveWallpaperSettings extends PreferenceActivity implements SharedPreferences.OnSharedPreferenceChangeListener

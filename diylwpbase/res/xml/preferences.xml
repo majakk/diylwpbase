@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PreferenceScreen     
     xmlns:android="http://schemas.android.com/apk/res/android"
-	xmlns:mtr="http://schemas.android.com/res/studio.coldstream.diylwpbase.android"
+	xmlns:mtr="http://schemas.android.com/res/studio.coldstream.jellybean.android"
 	android:key="prefKey" >
-	<studio.coldstream.diylwpbase.android.preference.ListPreferenceMultiSelect
+	<studio.coldstream.jellybean.android.preference.ListPreferenceMultiSelect
 		mtr:checkAll="check"
 		mtr:separator="|"
 		android:defaultValue="#ALL#"

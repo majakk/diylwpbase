@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     
-    <string name="app_name">Lemon Live Wallpaper</string>
-    <string name="app_name_short">Lemon LWP</string>
-    <string name="wallpaper_description">Lemon Live Wallpaper designed by Studio Coldstream</string>
+    <string name="app_name">Jelly Bean Live Wallpaper</string>
+    <string name="app_name_short">Jelly Bean LWP</string>
+    <string name="wallpaper_description">Jelly Bean Live Wallpaper designed by Studio Coldstream</string>
         
     
     <!-- Settings -->

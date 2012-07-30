@@ -1,4 +1,6 @@
-package studio.coldstream.diylwpbase;
+package studio.coldstream.jellybean;
+
+import studio.coldstream.jellybean.R;
 
 public interface IOffsetsChanged {
 	

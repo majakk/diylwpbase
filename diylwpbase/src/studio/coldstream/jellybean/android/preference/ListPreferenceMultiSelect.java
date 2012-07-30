@@ -1,4 +1,4 @@
-package studio.coldstream.diylwpbase.android.preference;
+package studio.coldstream.jellybean.android.preference;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -14,7 +14,7 @@ import android.preference.ListPreference;
 import android.util.AttributeSet;
 import android.widget.ListView;
 
-import studio.coldstream.diylwpbase.R;
+import studio.coldstream.jellybean.R;
 
 /**
  * 

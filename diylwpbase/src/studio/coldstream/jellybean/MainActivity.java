@@ -1,4 +1,4 @@
-package studio.coldstream.diylwpbase;
+package studio.coldstream.jellybean;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -13,6 +13,7 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.Toast;
+import studio.coldstream.jellybean.R;
 
 public class MainActivity extends Activity{    	
 	

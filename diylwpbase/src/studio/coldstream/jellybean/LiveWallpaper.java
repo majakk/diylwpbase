@@ -1,4 +1,4 @@
-package studio.coldstream.diylwpbase;
+package studio.coldstream.jellybean;
 
 import java.util.LinkedList;
 import java.util.List;
@@ -54,7 +54,7 @@ public class LiveWallpaper extends BaseLiveWallpaperService implements SharedPre
 	private String BLUE = "1";
 	
 	private String creative = "";
-	private String preset1 = "0!1!12"; //preset1
+	private String preset1 = "0!1!2!3"; //preset1
 	private String preset2 = "11!11!5!5!15"; //preset2
 	private String preset3 = "8!8!8!8!9"; //preset3
 	//private String preset4 = "2!3"; //preset4
@@ -140,8 +140,8 @@ public class LiveWallpaper extends BaseLiveWallpaperService implements SharedPre
 		TextureRegionFactory.setAssetBasePath("gfx/");
 		
 		/* Items */
-		this.mTexture = new Texture(1024, 2048, TextureOptions.DEFAULT);
-		this.mItemsTextureRegion = TextureRegionFactory.createTiledFromAsset(this.mTexture, this, "diyitemset.png", 0, 0, 4, 8); // 1024x2048
+		this.mTexture = new Texture(512, 512, TextureOptions.DEFAULT);
+		this.mItemsTextureRegion = TextureRegionFactory.createTiledFromAsset(this.mTexture, this, "jb_lwp.png", 0, 0, 2, 2); // 512x512
 		this.mEngine.getTextureManager().loadTexture(this.mTexture);		
 		
 		//Flares
@@ -216,7 +216,7 @@ public class LiveWallpaper extends BaseLiveWallpaperService implements SharedPre
 		col[2] = Integer.valueOf(BLUE) * 0.1f;
 		
 		if(MODE.matches("lipslemonade") && creative.contentEquals("")){
-			scene.setBackground(new ColorBackground(0.0f, 0.2f, 0.2f));
+			scene.setBackground(new ColorBackground(0.2f, 0.0f, 0.2f));
 			creative = preset1;
 		}
 		else if(MODE.matches("darkbeauty") && creative.contentEquals("")){
@@ -343,7 +343,7 @@ public class LiveWallpaper extends BaseLiveWallpaperService implements SharedPre
 	@Override
 	public void onSharedPreferenceChanged(SharedPreferences pSharedPrefs, String pKey)
 	{
-		MODE = pSharedPrefs.getString("livewallpaper_mode", "eyecandy");
+		MODE = pSharedPrefs.getString("livewallpaper_mode", "lipslemonade");
 		items = Integer.valueOf(pSharedPrefs.getString("livewallpaper_numofitems", "75"));
 	    FLARES = pSharedPrefs.getBoolean("livewallpaper_flares", true);
 	    SCROLL = pSharedPrefs.getBoolean("livewallpaper_scroll", true);
